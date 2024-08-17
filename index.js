@@ -12,3 +12,16 @@ if (operacion === 'registrar') {
 } else {
     console.log('Operación no válida. Usa "registrar" o "leer".');
 }
+
+
+
+/*
+Comandos para ejecutar:
+
+  Nuevo registo:
+node index.js registrar Benito "2 años" perro blanco vomitos
+
+  Leer:
+node index.js leer
+
+*/
